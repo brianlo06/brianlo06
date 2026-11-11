@@ -1,4 +1,4 @@
-## Hi, I'm Brian 👋
+## Hi, I'm Brian!
 
 Computer Engineering student at **Rutgers** (class of 2028). I like building systems where the result can be *proven* correct: hardware checked exhaustively against an independent model, network code tested under deterministic injected faults, and software that runs on real devices instead of just in a demo.
 
